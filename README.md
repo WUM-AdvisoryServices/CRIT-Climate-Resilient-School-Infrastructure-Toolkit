@@ -49,5 +49,3 @@ Lead: Waqas Umer Malik
 https://www.linkedin.com/services/page/71438031773a756b04/
 
 https://www.researchgate.net/lab/WUM-Advisory-Services-Waqas-Umer-Malik
-
-# CRIT-Climate-Resilient-School-Infrastructure-Toolkit
